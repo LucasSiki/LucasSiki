@@ -13,6 +13,6 @@ Neste documento falo sobre quem eu sou neste mundo da programação.
 
 Linguagem favorita: HTML 
 
-Como falar comigo:
+Como falar comigo: <br>
 https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233 <br>
 mailto:lucas.psiki@gmail.com
