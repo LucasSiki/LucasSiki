@@ -16,3 +16,11 @@ Linguagem favorita: HTML
 Como falar comigo: <br>
 https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233 <br>
 mailto:lucas.psiki@gmail.com
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.psiki@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233/" /></a>
+</p>  
