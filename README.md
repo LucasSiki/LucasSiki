@@ -12,8 +12,3 @@ Neste documento falo sobre quem eu sou neste mundo da programação.
   - Python
 
 Linguagem favorita: HTML 
-
-Como falar comigo:
-👔 [linkedin][https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233/]
-📧 [gmail]       
-👔 [https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233/][linkedin]
