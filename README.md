@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá Mundo! 
+Neste documento falo sobre quem eu sou neste mundo da programação.
 
-<!--
-**LucasSiki/LucasSiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Me chamo Lucas Pereira Sikinowski, atualmente fazendo o curso da Growdev para me tornar um desenvolvedor Fullstack. 
+  Nas minhas horas vagas costumo estudar programação, pois se tornou algo no qual me divirto enquanto estou estudando.
+  Estou em busca da minha primeira experiência profissional na área de TI, porém com administração de negócios e gerenciamento de lojas já tive contato.
+ 
+ Estou estudando:
+  - HTML
+  - CSS
+  - Javascript
+  - Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagem favorita: HTML
