@@ -19,4 +19,4 @@ https://www.linkedin.com/in/lucas-pereira-sikinowski-a05347233/
 <br>
 mailto:lucas.psiki@gmail.com
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
