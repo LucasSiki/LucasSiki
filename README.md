@@ -6,7 +6,7 @@ Neste documento falo sobre quem eu sou neste mundo da programação.
   Estou em busca da minha primeira experiência profissional na área de TI, porém com administração de negócios e gerenciamento de lojas já tive contato.
  
  💻 Estou estudando:
- <div style="display: inline_block">"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
