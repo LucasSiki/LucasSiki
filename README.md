@@ -1,4 +1,4 @@
-# Olá Mundo! 👋
+# Hello World! 
 Neste documento falo sobre quem eu sou neste mundo da programação.
 
   Me chamo Lucas Pereira Sikinowski, atualmente fazendo o curso da Growdev para me tornar um desenvolvedor Fullstack. <br> 
@@ -36,9 +36,5 @@ Neste documento falo sobre quem eu sou neste mundo da programação.
     srcset="
       https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
     "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
